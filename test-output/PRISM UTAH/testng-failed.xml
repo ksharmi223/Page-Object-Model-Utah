@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [PRISM UTAH]">
+  <test name="Prism_UTAH_Test_Automation(failed)">
+    <classes>
+      <class name="com.utah.qa.testcases.BasicInfoTypePaTest">
+        <methods>
+          <include name="SelectSSN"/>
+          <include name="EnrollmentType"/>
+        </methods>
+      </class> <!-- com.utah.qa.testcases.BasicInfoTypePaTest -->
+      <class name="com.utah.qa.testcases.EnrollmentTypePageTest">
+        <methods>
+          <include name="SeleIndividual"/>
+          <include name="EnrollmentType"/>
+        </methods>
+      </class> <!-- com.utah.qa.testcases.EnrollmentTypePageTest -->
+    </classes>
+  </test> <!-- Prism_UTAH_Test_Automation(failed) -->
+</suite> <!-- Failed suite [PRISM UTAH] -->

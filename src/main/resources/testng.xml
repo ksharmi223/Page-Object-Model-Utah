@@ -1,0 +1,11 @@
+
+<suite name="PRISM UTAH">
+	<test name="Prism_UTAH_Test_Automation">
+		<classes>
+			 <class name="com.utah.qa.testcases.LoginPageTest"/>
+			  <class name="com.utah.qa.testcases.EnrollmentTypePageTest"/>
+		  		<class name="com.utah.qa.testcases.HomePageTest" />
+		 		<class name="com.utah.qa.testcases.BasicInfoTypePaTest"/>
+		</classes>
+  </test>
+</suite>
